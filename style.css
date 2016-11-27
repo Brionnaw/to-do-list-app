@@ -1,7 +1,7 @@
 /*css*/
 
 body {
-  background:#edf0f1;
+  background:#b5a9d6;
   padding:80px 0 0 0;
 }
 
@@ -14,7 +14,7 @@ body, input, button {
 }
 
 header {
-  width:100%;
+  width:60%;
   height:80px;
   position:fixed;
   padding:15px;
@@ -108,9 +108,9 @@ ul.todo {
 }
 
 ul.todo li {
-  width:100%;
+  width:60%;
   min-height:50px;
-  float:left;
+  float:center;
   font-size:14px;
   font-weight:500;
   color:#444;
