@@ -212,7 +212,7 @@ ul.todo li .buttons button.complete svg .fill {
 
 ul.todo#completed:not(:empty) {
   position:relative;
-  padding:60px 0 0 0;
+  padding:30px 0 0 0;
 }
 
 ul.todo#completed:not(:empty):before {
